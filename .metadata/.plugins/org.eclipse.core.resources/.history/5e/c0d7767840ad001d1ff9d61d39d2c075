@@ -1,0 +1,18 @@
+package cursoJV.udemy.calc.visao;
+
+import java.awt.Color;
+
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+
+@SuppressWarnings("serial")
+public class Display extends JPanel{
+	
+	private JLabel label;
+	
+	public Display() {
+		setBackground(new Color(46, 49, 50));
+		label = new JLabel("1234,56");
+		add(label);
+	}
+}

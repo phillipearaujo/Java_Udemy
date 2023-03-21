@@ -1,0 +1,5 @@
+package cursoJV.udemy.calc.modelo;
+
+public interface MemoriaObservador {
+
+}

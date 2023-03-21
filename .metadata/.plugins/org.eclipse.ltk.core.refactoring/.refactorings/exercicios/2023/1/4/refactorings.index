@@ -1,0 +1,19 @@
+1674499254359	Rename local variable 'c1'
+1674662555120	Rename type 'Jogo'
+1674662567829	Rename type 'Jogador'
+1674662582917	Rename type 'Direcao'
+1674668217227	Rename type 'JogoEnum'
+1674668230156	Rename type 'JogadorEnum'
+1674668251214	Rename type 'DirecaoEnum'
+1674670492474	Rename type 'Jogador_Enum'
+1674670641901	Rename type 'Jogo_Enum'
+1674671015433	Rename local variable 'j1'
+1674671035261	Rename local variable 'j2'
+1674673890194	Rename local variable 'c1'
+1674673914631	Rename local variable 'f1'
+1674748794857	Delete element
+1674830619282	Move compilation unit
+1674830631041	Move compilation unit
+1674831730969	Rename local variable 'j2'
+1674843320007	Rename method 'getnomeCompleto'
+1674844317822	Rename type 'Feijão'

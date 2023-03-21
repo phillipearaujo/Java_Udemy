@@ -1,0 +1,20 @@
+package teste.basico;
+
+import java.util.List;
+
+import infra.ProdutoDAO;
+import modelo.basico.Produto;
+
+public class ObterProdutos {
+
+	public static void main(String[] args) {
+		
+		ProdutoDAO dao = new ProdutoDAO();
+		List<Produto> produtos = dao.getAll();
+		
+		for(Produto produto: produtos) {
+			System.out.println("ID: " + produto.getId() + 
+					"Name: " + produto.getNome());
+		}
+	}
+}

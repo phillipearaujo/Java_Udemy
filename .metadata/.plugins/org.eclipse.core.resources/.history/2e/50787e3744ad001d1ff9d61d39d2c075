@@ -1,0 +1,23 @@
+package cursoJV.udemy.calc.visao;
+
+import java.awt.GridLayout;
+import java.awt.Color;
+
+import javax.swing.JPanel;
+import javax.swing.plaf.ColorUIResource;
+
+@SuppressWarnings("serial")
+public class Teclado extends JPanel{
+	
+	private final Color COR_CINZA_ESCURO = new Color();
+	private final Color COR_CINZA_CLARO = new Color();
+	private final Color LARANJA = new Color();
+	
+	public Teclado() {
+		setLayout(new GridLayout(5 , 4));
+		
+		add(new Botao("AC", ));
+	
+	}
+
+}

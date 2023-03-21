@@ -1,0 +1,27 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="jdbc.Pessoa"><rhs name\="jdbc.Pessoa"/></lhs><lhs name\="java.util.Hashtable"><rhs name\="java.util.Properties"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.Properties"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.Properties"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Dictionary"><rhs name\="java.util.Properties"/></lhs><lhs name\="java.util.Properties"><rhs name\="java.util.Properties"/></lhs><lhs name\="java.util.RandomAccess"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.ArrayList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="modelo.basico.Usuario"><rhs name\="modelo.basico.Usuario"/></lhs><lhs name\="java.lang.Enum"><rhs name\="javax.persistence.GenerationType"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="javax.persistence.GenerationType"/></lhs><lhs name\="modelo.basico.Produto"><rhs name\="modelo.basico.Produto"/></lhs><lhs name\="infra.DAO"><rhs name\="infra.ProdutoDAO"/><rhs name\="infra.DAO"/></lhs><lhs name\="infra.ProdutoDAO"><rhs name\="infra.ProdutoDAO"/></lhs><lhs name\="modelo.umpraum.Cliente"><rhs name\="modelo.umpraum.Cliente"/></lhs><lhs name\="modelo.umpramuitos.ItemPedido"><rhs name\="modelo.umpramuitos.ItemPedido"/></lhs><lhs name\="modelo.umpramuitos.Pedido"><rhs name\="modelo.umpramuitos.Pedido"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.typefilter.disabled=java.awt.*;java.rmi.*;org.graalvm.*
+org.eclipse.jdt.ui.typefilter.enabled=com.sun.*;io.micrometer.shaded.*;jdk.*;sun.*;java.awt.List
+org.eclipse.jdt.ui.visibility.order=B,V,R,D,
+outlinesortoption=T,SF,SI,SM,F,I,C,M,
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale=
+spelling_locale_initialized=true
+spelling_user_dictionary=C\:\\Program Files\\Eclipse Adoptium\\eclipse-pt_BR.dic
+spelling_user_dictionary_encoding=
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

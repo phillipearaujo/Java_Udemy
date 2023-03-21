@@ -1,0 +1,12 @@
+package modelo.umpramuitos;
+
+public class ItemPedido {
+
+	private Long id;
+	
+	private int account;
+	
+	private Double price;
+	
+	
+}

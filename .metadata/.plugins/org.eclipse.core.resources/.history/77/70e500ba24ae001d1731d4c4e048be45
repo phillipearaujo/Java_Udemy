@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author arauj
+ *
+ */
+module calculadora {
+	requires java.desktop;
+}
