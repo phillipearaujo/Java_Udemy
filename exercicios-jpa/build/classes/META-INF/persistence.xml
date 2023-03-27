@@ -5,14 +5,23 @@
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
 	<persistence-unit name="exercicios-jpa">
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+		
+        <mapping-file>META-INF/consultas.xml</mapping-file>
+		
 		<class>modelo.basico.Usuario</class>
 		<class>modelo.basico.Produto</class>
 		<class>modelo.umpraum.Cliente</class>
 		<class>modelo.umpraum.Assento</class>
 		<class>modelo.umpramuitos.Pedido</class>
 		<class>modelo.umpramuitos.ItemPedido</class>
+		<class>modelo.muitospramuitos.Tio</class>
+		<class>modelo.muitospramuitos.Sobrinho</class>
+		<class>modelo.muitospramuitos.Ator</class>
+		<class>modelo.muitospramuitos.Filme</class>
+		<class>modelo.heranca.Aluno</class>
+		<class>modelo.heranca.AlunoBolsista</class>
+		
         
-        <!-- <mapping-file>META-INF/consultas.xml</mapping-file> -->
         
         <properties>
             <property name="javax.persistence.jdbc.driver"
