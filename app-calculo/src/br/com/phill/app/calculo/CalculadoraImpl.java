@@ -1,9 +1,10 @@
 package br.com.phill.app.calculo;
 
+import br.com.phill.app.Calculadora;
 import br.com.phill.app.calculo.interno.OperacoesAritmeticas;
 import br.com.phill.app.logging.Logger;
 
-public class Calculadora {
+public class CalculadoraImpl implements Calculadora{
 
 	private OperacoesAritmeticas opAritmeticas = new OperacoesAritmeticas();
 

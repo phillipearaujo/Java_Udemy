@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.sql.SQLException"/>
-    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
     <fullyQualifiedTypeName name="jdbc.FabricaConexao"/>
     <fullyQualifiedTypeName name="java.util.Properties"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
@@ -55,9 +52,12 @@
     <fullyQualifiedTypeName name="modelo.heranca.Aluno"/>
     <fullyQualifiedTypeName name="modelo.heranca.AlunoBolsista"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="br.com.phill.app.calculo.interno.OperacoesAritmeticas"/>
     <fullyQualifiedTypeName name="br.com.phill.app.calculo.Calculadora"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="br.com.phill.app.logging.Logger"/>
+    <fullyQualifiedTypeName name="br.com.phill.app.calculo.interno.OperacoesAritmeticas"/>
+    <fullyQualifiedTypeName name="br.com.phill.app.calculo.CalculadoraImpl"/>
+    <fullyQualifiedTypeName name="java.util.ServiceLoader"/>
+    <fullyQualifiedTypeName name="br.com.phill.app.Calculadora"/>
 </qualifiedTypeNameHistroy>
