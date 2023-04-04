@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\imersaoJava-Alura\alura-stickers"/>
 			<item value="D:\jobRotation"/>
 			<item value="D:\CursoJava _ Udemy\exercicios1"/>
 			<item value="D:\CursoJava _ Udemy\exercicios\src\jdbc"/>

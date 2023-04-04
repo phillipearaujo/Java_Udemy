@@ -226,7 +226,7 @@
 <uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702" uri="file:///C:/Users/arauj/eclipse/jee-2022-09/eclipse/configuration/org.eclipse.osgi/819/0/.cp/xsd/ws-securitypolicy-1.2.xsd"/>
 <uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200802" uri="file:///C:/Users/arauj/eclipse/jee-2022-09/eclipse/configuration/org.eclipse.osgi/819/0/.cp/xsd/ws-securitypolicy.xsd"/>
 <uri name="http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd" uri="file:///C:/Users/arauj/eclipse/jee-2022-09/eclipse/configuration/org.eclipse.osgi/819/0/.cp/xsd/xmldsig-core-schema.xsd"/>
-<uri name="http://www.w3.org/2001/XMLSchema" uri="file:///C:/Users/arauj/eclipse/jee-2022-09/eclipse/configuration/org.eclipse.osgi/871/0/.cp/cache/www.w3.org/2001/XMLSchema.xsd"/>
-<system systemId="http://www.w3.org/2001/xml.xsd" uri="file:///C:/Users/arauj/eclipse/jee-2022-09/eclipse/configuration/org.eclipse.osgi/871/0/.cp/cache/www.w3.org/2001/xml.xsd"/>
+<uri name="http://www.w3.org/2001/XMLSchema" uri="file:///C:/Users/arauj/eclipse/jee-2022-09/eclipse/configuration/org.eclipse.osgi/1029/0/.cp/cache/www.w3.org/2001/XMLSchema.xsd"/>
+<system systemId="http://www.w3.org/2001/xml.xsd" uri="file:///C:/Users/arauj/eclipse/jee-2022-09/eclipse/configuration/org.eclipse.osgi/1029/0/.cp/cache/www.w3.org/2001/xml.xsd"/>
 <uri name="http://www.w3.org/2001/XInclude" uri="file:///C:/Users/arauj/eclipse/jee-2022-09/eclipse/configuration/org.eclipse.osgi/853/0/.cp/xslt-schemas/xinclude.xsd"/>
 </catalog>

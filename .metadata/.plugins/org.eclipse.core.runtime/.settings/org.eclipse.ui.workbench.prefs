@@ -65,4 +65,5 @@ org.eclipse.ui.workbench.INACTIVE_TAB_TEXT_COLOR=187,187,187
 org.eclipse.ui.workbench.TAB_TEXT_FONT=1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI;
 org.eclipse.ui.workbench.TREE_TABLE_FONT=1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI;
 org.eclipse.wst.sse.ui.textfont=1|JetBrains Mono|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|JetBrains Mono;
+org.eclipse.xtend.ui.editors.textfont=1|JetBrains Mono|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|JetBrains Mono;
 terminal.views.view.font.definition=1|JetBrains Mono Thin|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|JetBrains Mono Thin;
